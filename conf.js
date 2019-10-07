@@ -59,7 +59,7 @@ jsproxy_config({
   /**
    * 加速节点
    */
-  node_acc: 'cfworker',
+  node_acc: 'mysite',
 
   /**
    * 静态资源 CDN 地址
